@@ -15,7 +15,7 @@ By utilizing the MERN stack, MongoDB for data storage, and incorporating WhatsAp
 - **🔒 User Authentication** – Secure login and profile management.
 
 - ## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js,CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **AI & Notifications:** Python, AI APIs  
